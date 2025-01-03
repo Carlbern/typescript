@@ -2,7 +2,6 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 var p = document.querySelector("p");
 var btnAdd = document.getElementById("add");
-var btnSave = document.getElementById("save");
 var btnClear = document.getElementById("clear");
 var input = document.querySelector("input");
 var textList = [];
