@@ -1,7 +1,6 @@
 export {};
 let p = document.querySelector("p");
 let btnAdd = document.getElementById("add");
-let btnSave = document.getElementById("save");
 let btnClear = document.getElementById("clear");
 let input = document.querySelector("input");
 let textList: any = [];
